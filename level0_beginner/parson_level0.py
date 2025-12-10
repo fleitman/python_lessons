@@ -29,9 +29,9 @@ print("="*60)
 print("""
 📋 ПЕРЕПУТАННЫЕ СТРОКИ:
 
-A) def say_hello():
+A)         print("Привет!")
 B)     for i in range(3):
-C)         print("Привет!")
+C) def say_hello():
 D)     print("Пока!")
 
 # Вызов функции:
